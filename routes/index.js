@@ -10,12 +10,12 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Express' });
+  res.render('index', { title: 'Craftsy Report Card' });
 });
-router.get('/metrics', function(req, res, next) {
+router.get('/metrics.json', function(req, res, next) {
 
   //res.attachment('metrics.json');
-  var file = fs.createWriteStream("tmp/metric.json");
+  var file = fs.createWriteStream("tmp/metrics.json");
   var url = 'http://s3.amazonaws.com/craftsy-yak/metrics.json';
 
   http.get(url, function(response) {
@@ -23,7 +23,7 @@ router.get('/metrics', function(req, res, next) {
     file.on('finish', function() {
       file.close();  // close() is async, call cb after close completes.
       //res.json(file.readFile());
-      fs.readFile('tmp/metric.json', function read(err, data) {
+      fs.readFile('tmp/metrics.json', function read(err, data) {
         if (err) {
           throw err;
         }

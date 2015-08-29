@@ -1,7 +1,15 @@
 doctype html
-html
+html(ng-app="appCraftsy")
   head
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
+
+    script(src='/components/modernizr/modernizr.js')
+    script(src='/components/angular/angular.js')
+    script(src='/components/aws-sdk/dist/aws-sdk.min.js')
+
+
   body
     block content
+    script(src="/components/jquery/dist/jquery.js")
+    script(src="/js/main.js")

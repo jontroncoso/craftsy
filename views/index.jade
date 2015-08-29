@@ -1,5 +1,43 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  div(class="container", ng-controller="CraftsyCtrl", ng-init="pullData()")
+    h1= title
+    table(width="100%")
+      thead
+        tr
+          th host
+          th ID
+          //th metric
+          th value
+          th Date
+      tbody
+        tr
+          td(colspan=4)
+            h2(style="text-align:center;") Replication Lag > {{replicationLagMin}}
+        tr(ng-repeat="h in replicationLagHosts track by $index")
+          td {{h.host}}
+          td {{h.id}}
+          //td {{h.metric}}
+          td {{h.value}}
+          td {{h.timestamp|date:'mediumDate'}}
+        tr
+          td(colspan=4)
+            h2(style="text-align:center;") Ingest Rate < {{ingestRateMax}}ms
+        tr(ng-repeat="h in ingestRateHosts track by $index")
+          td {{h.host}}
+          td {{h.id}}
+          //td {{h.metric}}
+          td {{h.value}}
+          td {{h.timestamp|date:'mediumDate'}}
+        tr
+          td(colspan=4)
+            h2(style="text-align:center;") Failed Send Count > {{failedSendsMin}}
+        tr(ng-repeat="h in failedSendsHosts track by $index")
+          td {{h.host}}
+          td {{h.id}}
+          //td {{h.metric}}
+          td {{h.value}}
+          td {{h.timestamp|date:'mediumDate'}}
+
+

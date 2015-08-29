@@ -1,0 +1,527 @@
+[
+  {
+    "value": 424.0118,
+    "metric": "replication_lag",
+    "host": "kerby7.craftsy.com",
+    "timestamp": 1413257798160,
+    "id": "3085ce81-eac0-4a96-a814-25daba979803"
+  },
+  {
+    "value": 97.8995,
+    "metric": "ingest_rate_ms",
+    "host": "riviera0.craftsy.com",
+    "timestamp": 1422712421234,
+    "id": "7819ecbc-bc2d-4676-97fe-571c1f74b98b"
+  },
+  {
+    "value": 399.5621,
+    "metric": "replication_lag",
+    "host": "veguita7.craftsy.com",
+    "timestamp": 1411390052695,
+    "id": "558c51eb-3da3-4d24-bb14-6f492827b8a6"
+  },
+  {
+    "value": 392.4732,
+    "metric": "replication_lag",
+    "host": "conway4.craftsy.com",
+    "timestamp": 1415866801362,
+    "id": "f0348cf3-b4ae-4bad-9b6e-9d25e537c448"
+  },
+  {
+    "value": 2.575,
+    "metric": "partition_count",
+    "host": "stockdale0.craftsy.com",
+    "timestamp": 1403237480800,
+    "id": "2e0a42a9-2e74-4ef4-9f40-2060f80939eb"
+  },
+  {
+    "value": 254.1487,
+    "metric": "ingest_rate_ms",
+    "host": "deltaville2.craftsy.com",
+    "timestamp": 1388535697370,
+    "id": "a99024f2-a345-4aa7-9072-dea5362579ac"
+  },
+  {
+    "value": 457.2849,
+    "metric": "ingest_rate_ms",
+    "host": "wyano8.craftsy.com",
+    "timestamp": 1405160362132,
+    "id": "aaa28341-afca-4b8d-9b9f-19baabfc3a19"
+  },
+  {
+    "value": 467.2756,
+    "metric": "failed_sends",
+    "host": "oley1.craftsy.com",
+    "timestamp": 1392356347883,
+    "id": "d8a738dc-89f6-401b-808e-b0a5c41f210a"
+  },
+  {
+    "value": 47.1238,
+    "metric": "replication_lag",
+    "host": "nile8.craftsy.com",
+    "timestamp": 1396471113323,
+    "id": "67d5e063-69e8-4960-b34d-b9991210f67b"
+  },
+  {
+    "value": 433.296,
+    "metric": "replication_lag",
+    "host": "cataract6.craftsy.com",
+    "timestamp": 1412782364514,
+    "id": "203df5eb-6b28-4d15-9de0-93244ff2e75d"
+  },
+  {
+    "value": 218.2342,
+    "metric": "partition_count",
+    "host": "lithium1.craftsy.com",
+    "timestamp": 1413555448490,
+    "id": "91ea7b30-b8c5-4f22-9533-38f07351fd33"
+  },
+  {
+    "value": 339.0176,
+    "metric": "failed_sends",
+    "host": "clayville0.craftsy.com",
+    "timestamp": 1423513655130,
+    "id": "657ce71a-f179-423f-9203-29cd09d29185"
+  },
+  {
+    "value": 342.8843,
+    "metric": "failed_sends",
+    "host": "watchtower6.craftsy.com",
+    "timestamp": 1397383728230,
+    "id": "0b15ce45-0946-46a1-bf28-7cae823f2fa3"
+  },
+  {
+    "value": 8.39,
+    "metric": "partition_count",
+    "host": "belgreen9.craftsy.com",
+    "timestamp": 1389637327205,
+    "id": "8630687b-fc57-4dc5-8327-ba85b95dd4c0"
+  },
+  {
+    "value": 323.7341,
+    "metric": "ingest_rate_ms",
+    "host": "martinez9.craftsy.com",
+    "timestamp": 1394224778387,
+    "id": "30ca3940-1d22-4b41-b4c4-5961e4986578"
+  },
+  {
+    "value": 102.9355,
+    "metric": "replication_lag",
+    "host": "gibsonia1.craftsy.com",
+    "timestamp": 1414931828539,
+    "id": "86397bda-446a-4c72-8e38-14a9a46ceac8"
+  },
+  {
+    "value": 361.2842,
+    "metric": "partition_count",
+    "host": "lindcove7.craftsy.com",
+    "timestamp": 1398697638456,
+    "id": "b4297b47-3567-41e2-b72c-7caa3988355d"
+  },
+  {
+    "value": 458.1858,
+    "metric": "partition_count",
+    "host": "davenport9.craftsy.com",
+    "timestamp": 1412217591113,
+    "id": "7d36d2b6-a536-4d6b-bc61-bf1cf1ad4a5b"
+  },
+  {
+    "value": 390.7836,
+    "metric": "failed_sends",
+    "host": "mapletown6.craftsy.com",
+    "timestamp": 1392695803921,
+    "id": "acfe82b5-dc60-4304-9546-a0f3f342c251"
+  },
+  {
+    "value": 490.8966,
+    "metric": "partition_count",
+    "host": "roland0.craftsy.com",
+    "timestamp": 1417966538898,
+    "id": "d99741f4-2377-4458-950c-b22fcb165d86"
+  },
+  {
+    "value": 285.7712,
+    "metric": "replication_lag",
+    "host": "windsor2.craftsy.com",
+    "timestamp": 1408642961253,
+    "id": "39f16230-8814-4d52-b829-b1fb5a740314"
+  },
+  {
+    "value": 243.7446,
+    "metric": "ingest_rate_ms",
+    "host": "wheaton4.craftsy.com",
+    "timestamp": 1420386617317,
+    "id": "5a0d5c56-2b9c-4362-842c-ea8503c2329a"
+  },
+  {
+    "value": 94.8899,
+    "metric": "ingest_rate_ms",
+    "host": "northchase2.craftsy.com",
+    "timestamp": 1408042831139,
+    "id": "39d3472b-8210-469e-9384-fd724ab98085"
+  },
+  {
+    "value": 401.0434,
+    "metric": "ingest_rate_ms",
+    "host": "savage3.craftsy.com",
+    "timestamp": 1407687222184,
+    "id": "de0338d4-6e47-4ffa-8477-535bfe686854"
+  },
+  {
+    "value": 303.5499,
+    "metric": "ingest_rate_ms",
+    "host": "belva0.craftsy.com",
+    "timestamp": 1400710593878,
+    "id": "76753220-b791-4b86-803b-a76696950cfe"
+  },
+  {
+    "value": 310.3974,
+    "metric": "failed_sends",
+    "host": "fruitdale7.craftsy.com",
+    "timestamp": 1393011825355,
+    "id": "d866c970-9783-4dda-97b2-f1d783f6a902"
+  },
+  {
+    "value": 316.3675,
+    "metric": "failed_sends",
+    "host": "rote0.craftsy.com",
+    "timestamp": 1392542477277,
+    "id": "0a085b5e-5433-445e-9531-53994a673190"
+  },
+  {
+    "value": 314.3038,
+    "metric": "partition_count",
+    "host": "stevens5.craftsy.com",
+    "timestamp": 1410885407796,
+    "id": "75a896b3-bfa8-4782-8205-282c6bd09d38"
+  },
+  {
+    "value": 201.5968,
+    "metric": "replication_lag",
+    "host": "deseret4.craftsy.com",
+    "timestamp": 1419892167172,
+    "id": "dddd1b05-dc47-4f68-81a3-5f8a02c20dff"
+  },
+  {
+    "value": 292.3302,
+    "metric": "partition_count",
+    "host": "bawcomville2.craftsy.com",
+    "timestamp": 1421676241487,
+    "id": "05a94fbe-37ad-472b-af10-ca166b198875"
+  },
+  {
+    "value": 85.0372,
+    "metric": "failed_sends",
+    "host": "hendersonville6.craftsy.com",
+    "timestamp": 1398174643699,
+    "id": "e3a5eea7-60a4-4223-8f04-7bb7ff23ce8c"
+  },
+  {
+    "value": 387.1173,
+    "metric": "ingest_rate_ms",
+    "host": "lodoga6.craftsy.com",
+    "timestamp": 1409466184201,
+    "id": "71acf3f2-b980-42df-90f5-f58886a50e07"
+  },
+  {
+    "value": 461.5573,
+    "metric": "failed_sends",
+    "host": "alamo0.craftsy.com",
+    "timestamp": 1395691762947,
+    "id": "c2bfaaff-c8fd-4732-b516-8857b80fda03"
+  },
+  {
+    "value": 341.2159,
+    "metric": "replication_lag",
+    "host": "noblestown7.craftsy.com",
+    "timestamp": 1393323778460,
+    "id": "1bc82567-e806-441a-b14b-471ad7f79d33"
+  },
+  {
+    "value": 201.4694,
+    "metric": "partition_count",
+    "host": "foxworth5.craftsy.com",
+    "timestamp": 1421605260379,
+    "id": "cd7f84e6-99ec-4783-bbcf-b71493de6af3"
+  },
+  {
+    "value": 462.959,
+    "metric": "partition_count",
+    "host": "summerfield0.craftsy.com",
+    "timestamp": 1401598525065,
+    "id": "4bb7d978-9e55-4a43-8656-bf2458e0d57d"
+  },
+  {
+    "value": 324.2288,
+    "metric": "ingest_rate_ms",
+    "host": "saticoy9.craftsy.com",
+    "timestamp": 1407946094535,
+    "id": "8bb8dff2-9216-4c21-9ff5-363b999987ae"
+  },
+  {
+    "value": 95.7976,
+    "metric": "replication_lag",
+    "host": "madaket2.craftsy.com",
+    "timestamp": 1400460499317,
+    "id": "d7e3f0a7-bd0a-4999-985d-c018015ec911"
+  },
+  {
+    "value": 103.5669,
+    "metric": "partition_count",
+    "host": "johnsonburg3.craftsy.com",
+    "timestamp": 1393831975285,
+    "id": "cd81a870-f95b-4c73-8d09-8c5b772ba445"
+  },
+  {
+    "value": 117.4547,
+    "metric": "ingest_rate_ms",
+    "host": "advance9.craftsy.com",
+    "timestamp": 1400594005648,
+    "id": "f361262f-8242-4d6a-a270-0e7312e005fb"
+  },
+  {
+    "value": 498.758,
+    "metric": "ingest_rate_ms",
+    "host": "crenshaw6.craftsy.com",
+    "timestamp": 1402514381172,
+    "id": "2aebd555-834a-4112-8802-165a04f1e2db"
+  },
+  {
+    "value": 457.9627,
+    "metric": "partition_count",
+    "host": "dahlen3.craftsy.com",
+    "timestamp": 1395891410153,
+    "id": "c553cd15-879a-42e8-abb5-631c9d6216b8"
+  },
+  {
+    "value": 211.3531,
+    "metric": "failed_sends",
+    "host": "haena9.craftsy.com",
+    "timestamp": 1403593492807,
+    "id": "e855339b-c575-4f90-95ff-c2d1a9c3b4f2"
+  },
+  {
+    "value": 384.4669,
+    "metric": "failed_sends",
+    "host": "oretta3.craftsy.com",
+    "timestamp": 1396746050932,
+    "id": "4bdbfa6b-bd0e-411b-96ef-5b1a96e9214a"
+  },
+  {
+    "value": 132.7444,
+    "metric": "replication_lag",
+    "host": "reno7.craftsy.com",
+    "timestamp": 1394037769876,
+    "id": "ceb12d00-2ecc-49ae-b6cc-d4bcc6752fd6"
+  },
+  {
+    "value": 293.867,
+    "metric": "failed_sends",
+    "host": "ypsilanti5.craftsy.com",
+    "timestamp": 1422363496694,
+    "id": "f94de017-5d7b-4c17-8219-29bbd690e665"
+  },
+  {
+    "value": 75.5122,
+    "metric": "partition_count",
+    "host": "grahamtown3.craftsy.com",
+    "timestamp": 1408651529479,
+    "id": "400cba16-de61-4d5c-a7f5-81c683abafed"
+  },
+  {
+    "value": 223.3542,
+    "metric": "partition_count",
+    "host": "delwood5.craftsy.com",
+    "timestamp": 1408583018561,
+    "id": "fe8198d5-0c76-4dba-8dd6-dfceb3af4e3b"
+  },
+  {
+    "value": 321.9794,
+    "metric": "failed_sends",
+    "host": "robbins4.craftsy.com",
+    "timestamp": 1399040192601,
+    "id": "25f895e4-8c0a-4ccc-ad78-8e15192f894b"
+  },
+  {
+    "value": 410.2001,
+    "metric": "ingest_rate_ms",
+    "host": "harold2.craftsy.com",
+    "timestamp": 1420922714884,
+    "id": "1bab8d0a-c01a-49e0-880e-c7726e7da639"
+  },
+  {
+    "value": 354.8027,
+    "metric": "partition_count",
+    "host": "knowlton4.craftsy.com",
+    "timestamp": 1400022565838,
+    "id": "393cb90f-ea60-40e5-ad20-897753131216"
+  },
+  {
+    "value": 69.8628,
+    "metric": "partition_count",
+    "host": "comptche2.craftsy.com",
+    "timestamp": 1415357971452,
+    "id": "37e60c67-0c48-4d08-945b-f4df0660abea"
+  },
+  {
+    "value": 248.2891,
+    "metric": "replication_lag",
+    "host": "century8.craftsy.com",
+    "timestamp": 1414432348238,
+    "id": "3b4e33a3-e42d-4842-9328-b77bcd3c7fa0"
+  },
+  {
+    "value": 252.4472,
+    "metric": "failed_sends",
+    "host": "barronett5.craftsy.com",
+    "timestamp": 1423907056206,
+    "id": "065d1eff-8712-4312-9b75-b00dc9ad42f4"
+  },
+  {
+    "value": 114.0667,
+    "metric": "partition_count",
+    "host": "roosevelt5.craftsy.com",
+    "timestamp": 1391589645544,
+    "id": "31211a6d-8371-4c30-b4b5-5323b44253a6"
+  },
+  {
+    "value": 182.9725,
+    "metric": "replication_lag",
+    "host": "floriston4.craftsy.com",
+    "timestamp": 1404232400103,
+    "id": "7f9b3a25-4e72-4817-b8c2-8b38c3b77e52"
+  },
+  {
+    "value": 105.7578,
+    "metric": "failed_sends",
+    "host": "ogema4.craftsy.com",
+    "timestamp": 1403199024446,
+    "id": "f172d3af-d4d2-4d7d-b2f0-99d8fefaa6a0"
+  },
+  {
+    "value": 36.2388,
+    "metric": "ingest_rate_ms",
+    "host": "vienna1.craftsy.com",
+    "timestamp": 1399790142608,
+    "id": "f624d58b-c429-4f99-9697-63140ac269cc"
+  },
+  {
+    "value": 226.2207,
+    "metric": "replication_lag",
+    "host": "emory0.craftsy.com",
+    "timestamp": 1412781538849,
+    "id": "54ca91b2-09f7-4a52-b62b-ecfda0ec4f5e"
+  },
+  {
+    "value": 278.5822,
+    "metric": "partition_count",
+    "host": "broadlands1.craftsy.com",
+    "timestamp": 1396673108261,
+    "id": "3cb2660b-b791-40c8-b0b3-7272a07903e5"
+  },
+  {
+    "value": 233.5305,
+    "metric": "failed_sends",
+    "host": "inkerman6.craftsy.com",
+    "timestamp": 1409829549254,
+    "id": "f77dfb09-3482-4e9d-acfb-3a87989618b5"
+  },
+  {
+    "value": 240.6441,
+    "metric": "ingest_rate_ms",
+    "host": "blue0.craftsy.com",
+    "timestamp": 1393449405718,
+    "id": "6211901e-a8c7-40e3-bbea-9592c2d70414"
+  },
+  {
+    "value": 445.444,
+    "metric": "failed_sends",
+    "host": "flintville9.craftsy.com",
+    "timestamp": 1416225510434,
+    "id": "c792e5a6-6383-44da-aeda-0ee3eab724b3"
+  },
+  {
+    "value": 32.0813,
+    "metric": "replication_lag",
+    "host": "westwood1.craftsy.com",
+    "timestamp": 1420298292332,
+    "id": "265c2358-6251-4ab4-809e-3f1046da0021"
+  },
+  {
+    "value": 7.606,
+    "metric": "replication_lag",
+    "host": "sisquoc9.craftsy.com",
+    "timestamp": 1402602132789,
+    "id": "82361e2d-f984-4a1b-bbf5-8907aaf180e0"
+  },
+  {
+    "value": 481.727,
+    "metric": "failed_sends",
+    "host": "lacomb9.craftsy.com",
+    "timestamp": 1402732365229,
+    "id": "fc73b0dd-7845-4bc1-9812-ae617ecfad1d"
+  },
+  {
+    "value": 415.1915,
+    "metric": "ingest_rate_ms",
+    "host": "logan2.craftsy.com",
+    "timestamp": 1396747689038,
+    "id": "d3484e46-fea6-4666-a6a9-13963e638934"
+  },
+  {
+    "value": 297.6687,
+    "metric": "partition_count",
+    "host": "graniteville0.craftsy.com",
+    "timestamp": 1421913562421,
+    "id": "072c9d93-f85b-4333-a971-1ec43dfad6f6"
+  },
+  {
+    "value": 384.086,
+    "metric": "failed_sends",
+    "host": "omar7.craftsy.com",
+    "timestamp": 1390125183840,
+    "id": "57a802ef-9c85-438c-b50b-1e2e7999e6f0"
+  },
+  {
+    "value": 55.3436,
+    "metric": "partition_count",
+    "host": "whitmer0.craftsy.com",
+    "timestamp": 1393136219122,
+    "id": "0d82671f-a11c-4830-8f8f-4aa9b412f5dc"
+  },
+  {
+    "value": 154.6637,
+    "metric": "ingest_rate_ms",
+    "host": "oberlin0.craftsy.com",
+    "timestamp": 1407899666649,
+    "id": "c06b19e9-b4ff-4614-a09e-042bdc7b8c12"
+  },
+  {
+    "value": 226.3522,
+    "metric": "replication_lag",
+    "host": "ventress5.craftsy.com",
+    "timestamp": 1411123511171,
+    "id": "5522e774-6459-469f-b3db-83bfc58b7674"
+  },
+  {
+    "value": 245.2373,
+    "metric": "partition_count",
+    "host": "swartzville3.craftsy.com",
+    "timestamp": 1415751624042,
+    "id": "3bdf5129-8a6d-4521-a90b-596663f977c3"
+  },
+  {
+    "value": 24.6801,
+    "metric": "partition_count",
+    "host": "eggertsville7.craftsy.com",
+    "timestamp": 1417099872435,
+    "id": "15ffa2f2-50f2-4632-a370-604acff6d4e9"
+  },
+  {
+    "value": 438.2465,
+    "metric": "ingest_rate_ms",
+    "host": "benson9.craftsy.com",
+    "timestamp": 1422726434075,
+    "id": "bad72973-16b2-458f-bf09-efcf63d96e9a"
+  }
+]
