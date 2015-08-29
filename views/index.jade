@@ -14,7 +14,9 @@ block content
       tbody
         tr
           td(colspan=4)
-            h2(style="text-align:center;") Replication Lag > {{replicationLagMin}}
+            h2(style="text-align:center;")
+              span Replication Lag >
+              input(type="text", ng-model="replicationLagMin")
         tr(ng-repeat="h in replicationLagHosts track by $index")
           td {{h.host}}
           td {{h.id}}
@@ -23,7 +25,10 @@ block content
           td {{h.timestamp|date:'mediumDate'}}
         tr
           td(colspan=4)
-            h2(style="text-align:center;") Ingest Rate < {{ingestRateMax}}ms
+            h2(style="text-align:center;")
+              span Ingest Rate <
+              input(type="text", ng-model="ingestRateMax")
+              span ms
         tr(ng-repeat="h in ingestRateHosts track by $index")
           td {{h.host}}
           td {{h.id}}
@@ -32,12 +37,16 @@ block content
           td {{h.timestamp|date:'mediumDate'}}
         tr
           td(colspan=4)
-            h2(style="text-align:center;") Failed Send Count > {{failedSendsMin}}
+            h2(style="text-align:center;")
+              span Failed Send Count >
+              input(type="text", ng-model="failedSendsMin ")
         tr(ng-repeat="h in failedSendsHosts track by $index")
           td {{h.host}}
           td {{h.id}}
           //td {{h.metric}}
           td {{h.value}}
           td {{h.timestamp|date:'mediumDate'}}
-
+    p
+      button(ng-click="upload()", class="btn-sm btn-primary") Upload to S3
+    p {{message}}
 
