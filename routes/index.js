@@ -27,7 +27,6 @@ router.get('/metrics.json', function(req, res, next) {
         if (err) {
           throw err;
         }
-        console.log(data.toString('utf8'));
         res.json(JSON.parse(data.toString('utf8')));
       });
     });
