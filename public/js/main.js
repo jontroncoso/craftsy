@@ -111,7 +111,7 @@ angular.module('appCraftsy', [])
         // These strangely don't work
         //$scope.message = "dsadasdad";
         //$scope.message = "csv Is available for 24 hours";
-        
+
         //setMessage("csv Is available for 24 hours");
       });
       // I realize this is not the right way to do it, but $scope.message doesn't work in the putObject callback
